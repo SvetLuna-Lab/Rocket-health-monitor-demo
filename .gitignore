@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.venv
+venv/
+.idea/
+.vscode/
+.DS_Store
+monitoring_results.json
+models/
